@@ -109,7 +109,6 @@ Execute the program
             </tr>
 
             <tr>
-                <td align="center">6</td>
                 <td align="center">19EY701</td>
                 <td align="centre">Soft Skills(SS)</td>
             </tr>
@@ -120,3 +119,4 @@ Execute the program
 
 # OUTPUT
 ![SLOT TIMETABLE](slottimetablepavi.png)
+![SLOT TIMETABLE](slottimetablepavithra.png)
